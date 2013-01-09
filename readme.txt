@@ -2,8 +2,8 @@
 Contributors: Iaan, Sergio
 Tags: Link Love, Content Links, Link to providers
 Requires at least: 3.0
-Tested up to: 3.3
-Stable tag: 3.0
+Tested up to: 3.5
+Stable tag: 3.5
 License: GPLv2 or later
 
 Show some love to the people who make it possible to do what you do.
@@ -23,7 +23,6 @@ Major Features include:
 * Custom CSS
 * Display links in lists or inline
 
-
 == Installation ==
 
 Upload the Show Some Love plugin to your blog, Activate it. Under the Settings Menu you will find the Show Some Love option page.
@@ -34,3 +33,7 @@ Upload the Show Some Love plugin to your blog, Activate it. Under the Settings M
 
 = 1.0.1 = 
 * Launch to the market
+
+= 1.1.1 =
+* Support for 3.5 added
+* Removed custom Jquery UI
